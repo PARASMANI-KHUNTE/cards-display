@@ -1,8 +1,21 @@
-
 import { motion } from "framer-motion";
 import { GraduationCap, MapPin, Star, ChevronRight } from "lucide-react";
 
-const Card = ({ college }) => (
+// Define the type for the college prop
+interface College {
+  collegeName: string;
+  location: string;
+  coursesOffered: string[];
+  scholarshipsOffered: string[];
+  eligibilityCriteriaForInternationalStudents: string;
+}
+
+// Define the props for the Card component
+interface CardProps {
+  college: College;
+}
+
+const Card: React.FC<CardProps> = ({ college }) => (
   <motion.div
     whileHover={{ scale: 1.05, boxShadow: "0 10px 30px rgba(0,0,0,0.2)" }}
     className="bg-white rounded-xl overflow-hidden shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300"
@@ -25,7 +38,7 @@ const Card = ({ college }) => (
           Courses Offered
         </h3>
         <ul className="space-y-2">
-          {college.coursesOffered.map((course, idx) => (
+          {college.coursesOffered.map((course: string, idx: number) => (
             <li key={idx} className="text-sm text-gray-700 flex items-center">
               <ChevronRight className="w-4 h-4 mr-2 text-blue-500" />
               {course}
@@ -41,7 +54,7 @@ const Card = ({ college }) => (
           Scholarships
         </h3>
         <ul className="space-y-2">
-          {college.scholarshipsOffered.map((scholarship, idx) => (
+          {college.scholarshipsOffered.map((scholarship: string, idx: number) => (
             <li key={idx} className="text-sm text-gray-700 flex items-center">
               <ChevronRight className="w-4 h-4 mr-2 text-yellow-500" />
               {scholarship}
