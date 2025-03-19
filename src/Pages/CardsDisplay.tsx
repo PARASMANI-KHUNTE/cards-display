@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 import { ChevronRight, ChevronLeft, Loader2, PlusCircle } from "lucide-react";
 import Card from "../components/Card"; // Importing the separate Card component
 import mockData from "../../public/collegeData.json"; // Using external JSON data
