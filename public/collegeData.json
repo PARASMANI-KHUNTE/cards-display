@@ -1,0 +1,658 @@
+[
+    {
+      "collegeName": "University of Auckland",
+      "location": "Auckland, Auckland Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Software Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "NZ International Scholarship",
+        "University of Auckland International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary or bachelor’s degree, proof of English proficiency (IELTS 6.5 or TOEFL 80), and meet program-specific prerequisites."
+    },
+    {
+      "collegeName": "University of Otago",
+      "location": "Dunedin, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "Ph.D. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Otago International Excellence Scholarship",
+        "NZIDRS (New Zealand International Doctoral Research Scholarship)"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized high school/bachelor’s degree, demonstrate proficiency in English (IELTS 6.5/TOEFL 80) and satisfy specific course entry criteria."
+    },
+    {
+      "collegeName": "Victoria University of Wellington",
+      "location": "Wellington, Wellington Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Data Science"
+      ],
+      "scholarshipsOffered": [
+        "VUW International Merit Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized secondary or undergraduate qualification plus valid English proficiency scores (IELTS 6.5/TOEFL 80) and meet additional academic criteria."
+    },
+    {
+      "collegeName": "University of Canterbury",
+      "location": "Christchurch, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Software Engineering",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Systems"
+      ],
+      "scholarshipsOffered": [
+        "UC International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must hold a recognized qualification, have demonstrated English language skills (minimum IELTS 6.5/TOEFL 80), and fulfill subject‐specific entry requirements."
+    },
+    {
+      "collegeName": "Massey University",
+      "location": "Palmerston North, Manawatu-Whanganui, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Systems",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Massey International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized secondary or bachelor’s certificate, proof of English proficiency (IELTS 6.5/TOEFL 80), and meet additional academic prerequisites."
+    },
+    {
+      "collegeName": "Auckland University of Technology (AUT)",
+      "location": "Auckland, Auckland Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Interactive Media & Game Development",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Cyber Security"
+      ],
+      "scholarshipsOffered": [
+        "AUT International Merit Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized secondary/bachelor’s degree, sufficient English language test scores (IELTS 6.5 or TOEFL 80), and satisfy program-specific criteria."
+    },
+    {
+      "collegeName": "University of Waikato",
+      "location": "Hamilton, Waikato, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Computer Applications",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Data Analytics"
+      ],
+      "scholarshipsOffered": [
+        "Waikato International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must submit a recognized qualification, proof of English proficiency (minimum IELTS 6.5/TOEFL 80) and meet the departmental admission criteria."
+    },
+    {
+      "collegeName": "Lincoln University",
+      "location": "Lincoln, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Systems",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Lincoln International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic certificate and valid English language scores (IELTS 6.5/TOEFL 80) along with meeting course-specific requirements."
+    },
+    {
+      "collegeName": "University of Nelson",
+      "location": "Nelson, Nelson Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Nelson Excellence Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "International students require a recognized secondary/bachelor’s degree and evidence of English proficiency (IELTS 6.5/TOEFL 80)."
+    },
+    {
+      "collegeName": "University of Marlborough",
+      "location": "Blenheim, Marlborough, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Marlborough Merit Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized academic qualification, provide proof of English proficiency (IELTS 6.5/TOEFL 80), and meet the specific entry requirements."
+    },
+    {
+      "collegeName": "Wellington Institute of Technology",
+      "location": "Wellington, Wellington Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Wellington IT International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized secondary or bachelor’s degree and must demonstrate English language proficiency (IELTS 6.5/TOEFL 80) with additional program-specific criteria."
+    },
+    {
+      "collegeName": "Christchurch University of Applied Sciences",
+      "location": "Christchurch, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Software Development",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Cyber Security"
+      ],
+      "scholarshipsOffered": [
+        "Christchurch UAS International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized qualification and provide proof of English proficiency (minimum IELTS 6.5/TOEFL 80), plus satisfy course-specific requirements."
+    },
+    {
+      "collegeName": "Hamilton University",
+      "location": "Hamilton, Waikato, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Hamilton International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized academic certificate, meet language proficiency requirements (IELTS 6.5/TOEFL 80), and comply with additional admission criteria."
+    },
+    {
+      "collegeName": "Dunedin Institute of Technology",
+      "location": "Dunedin, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "DIT International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized secondary/bachelor’s degree, evidence of English proficiency (IELTS 6.5 or TOEFL 80), and meet subject-specific entry requirements."
+    },
+    {
+      "collegeName": "Tauranga University of Technology",
+      "location": "Tauranga, Bay of Plenty, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "TUT International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized qualification and submit proof of English proficiency (IELTS 6.5/TOEFL 80) along with meeting course prerequisites."
+    },
+    {
+      "collegeName": "New Plymouth University",
+      "location": "New Plymouth, Taranaki, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "B.Sc. in Information Technology",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "New Plymouth International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized secondary/bachelor’s degree, prove English proficiency (IELTS 6.5/TOEFL 80), and meet additional academic requirements."
+    },
+    {
+      "collegeName": "Invercargill University",
+      "location": "Invercargill, Southland, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Invercargill International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized academic qualification and must provide evidence of English language proficiency (IELTS 6.5 or TOEFL 80) plus additional entry requirements."
+    },
+    {
+      "collegeName": "Upper Hutt University",
+      "location": "Upper Hutt, Wellington Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Upper Hutt International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized secondary or undergraduate degree and provide proof of English proficiency (IELTS 6.5/TOEFL 80), meeting program prerequisites."
+    },
+    {
+      "collegeName": "Rotorua University",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Rotorua International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized academic certificate and meet English proficiency requirements (IELTS 6.5/TOEFL 80) with additional course-specific criteria."
+    },
+    {
+      "collegeName": "Palmerston North University",
+      "location": "Palmerston North, Manawatu-Whanganui, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Palmerston North International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized secondary/bachelor’s degree, sufficient English test scores (IELTS 6.5/TOEFL 80), and fulfill additional entry criteria."
+    },
+    {
+      "collegeName": "Whangarei University",
+      "location": "Whangarei, Northland, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Whangarei International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized academic certificate and valid proof of English proficiency (IELTS 6.5/TOEFL 80) and meet program-specific requirements."
+    },
+    {
+      "collegeName": "Gisborne University",
+      "location": "Gisborne, Gisborne District, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Gisborne International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized qualification and must demonstrate English proficiency (minimum IELTS 6.5/TOEFL 80) plus satisfy course-specific prerequisites."
+    },
+    {
+      "collegeName": "Napier University of Technology",
+      "location": "Napier, Hawke's Bay, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Napier International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized academic degree, provide proof of English proficiency (IELTS 6.5/TOEFL 80), and meet additional admission criteria."
+    },
+    {
+      "collegeName": "Timaru Institute of Technology",
+      "location": "Timaru, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Timaru International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized secondary or bachelor’s degree and must provide language test scores (IELTS 6.5/TOEFL 80) along with meeting program requirements."
+    },
+    {
+      "collegeName": "Ashburton University",
+      "location": "Ashburton, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Ashburton International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized academic certificate and valid English proficiency scores (IELTS 6.5/TOEFL 80) plus additional entry criteria."
+    },
+    {
+      "collegeName": "Queenstown University",
+      "location": "Queenstown, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Queenstown International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree, proof of English proficiency (minimum IELTS 6.5/TOEFL 80), and meet course-specific criteria."
+    },
+    {
+      "collegeName": "Balclutha University",
+      "location": "Balclutha, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Balclutha International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized academic qualification, English proficiency evidence (IELTS 6.5/TOEFL 80), and satisfy additional admission requirements."
+    },
+    {
+      "collegeName": "Wanganui Institute of Technology",
+      "location": "Wanganui, Manawatu-Whanganui, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Wanganui International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized secondary/bachelor’s degree, proof of language proficiency (IELTS 6.5/TOEFL 80), and must meet program-specific prerequisites."
+    },
+    {
+      "collegeName": "Taupo University",
+      "location": "Taupo, Waikato, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Taupo International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must have a recognized academic certificate and valid English proficiency (minimum IELTS 6.5/TOEFL 80) along with additional entry criteria."
+    },
+    {
+      "collegeName": "Hawke's Bay University",
+      "location": "Hastings, Hawke's Bay, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Hawke's Bay International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized secondary or bachelor’s degree and provide evidence of English proficiency (IELTS 6.5/TOEFL 80), and meet additional requirements."
+    },
+    {
+      "collegeName": "Manawatu University",
+      "location": "Palmerston North, Manawatu-Whanganui, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Manawatu International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized qualification, provide proof of English language proficiency (IELTS 6.5/TOEFL 80), and fulfill program-specific entry requirements."
+    },
+    {
+      "collegeName": "Central Otago University",
+      "location": "Queenstown, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Central Otago International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates require a recognized secondary/bachelor’s degree, valid English proficiency (IELTS 6.5/TOEFL 80), and must meet additional academic criteria."
+    },
+    {
+      "collegeName": "Northland University",
+      "location": "Whangarei, Northland, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Northland International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must provide a recognized academic certificate and demonstrate English proficiency (IELTS 6.5/TOEFL 80) along with fulfilling course prerequisites."
+    },
+    {
+      "collegeName": "Bay of Plenty University",
+      "location": "Tauranga, Bay of Plenty, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Bay of Plenty International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants need a recognized secondary/bachelor’s degree, proof of English proficiency (IELTS 6.5/TOEFL 80), and must satisfy additional program-specific criteria."
+    },
+    {
+      "collegeName": "Southland University",
+      "location": "Invercargill, Southland, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Southland International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must hold a recognized academic certificate and meet language proficiency requirements (IELTS 6.5/TOEFL 80) plus additional entry conditions."
+    },
+    {
+      "collegeName": "Waitakere University",
+      "location": "Waitakere, Auckland Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Waitakere International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree, proof of English proficiency (IELTS 6.5/TOEFL 80), and meet program-specific requirements."
+    },
+    {
+      "collegeName": "Waikato Institute of Technology",
+      "location": "Hamilton, Waikato, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "WIT International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized academic qualification and provide evidence of English proficiency (minimum IELTS 6.5/TOEFL 80) along with meeting course entry criteria."
+    },
+    {
+      "collegeName": "Auckland Polytechnic Institute",
+      "location": "Auckland, Auckland Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Auckland Polytechnic International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized secondary/bachelor’s degree, proven English proficiency (IELTS 6.5/TOEFL 80), and must satisfy additional academic requirements."
+    },
+    {
+      "collegeName": "Wellington Polytechnic Institute",
+      "location": "Wellington, Wellington Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Wellington Polytechnic International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic certificate and provide language proficiency scores (minimum IELTS 6.5/TOEFL 80) along with meeting program prerequisites."
+    },
+    {
+      "collegeName": "Christchurch Polytechnic Institute",
+      "location": "Christchurch, Canterbury, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Christchurch Polytechnic International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must hold a recognized secondary/bachelor’s degree and prove English proficiency (IELTS 6.5/TOEFL 80) plus satisfy additional entry requirements."
+    },
+    {
+      "collegeName": "Hamilton Polytechnic Institute",
+      "location": "Hamilton, Waikato, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Systems"
+      ],
+      "scholarshipsOffered": [
+        "Hamilton Polytechnic International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized academic qualification, evidence of English proficiency (IELTS 6.5/TOEFL 80), and meet program-specific criteria."
+    },
+    {
+      "collegeName": "Dunedin Polytechnic Institute",
+      "location": "Dunedin, Otago, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Dunedin Polytechnic International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants require a recognized secondary/bachelor’s degree and must demonstrate English proficiency (minimum IELTS 6.5/TOEFL 80) plus additional academic requirements."
+    },
+    {
+      "collegeName": "Rotorua Polytechnic Institute",
+      "location": "Rotorua, Bay of Plenty, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Rotorua Polytechnic International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must possess a recognized academic certificate and valid language test scores (IELTS 6.5/TOEFL 80), and meet subject-specific criteria."
+    },
+    {
+      "collegeName": "Palmerston North Polytechnic Institute",
+      "location": "Palmerston North, Manawatu-Whanganui, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Palmerston North Polytechnic International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must have a recognized secondary/bachelor’s degree, demonstrate English proficiency (minimum IELTS 6.5/TOEFL 80), and satisfy additional admission criteria."
+    },
+    {
+      "collegeName": "Hastings University",
+      "location": "Hastings, Hawke's Bay, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Hastings International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Candidates must hold a recognized academic qualification and provide proof of English language proficiency (IELTS 6.5/TOEFL 80) along with meeting program prerequisites."
+    },
+    {
+      "collegeName": "Nelson Polytechnic Institute",
+      "location": "Nelson, Nelson Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Information Technology"
+      ],
+      "scholarshipsOffered": [
+        "Nelson Polytechnic International Scholarship",
+        "NZIDRS"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree and valid English proficiency scores (IELTS 6.5/TOEFL 80) plus additional course requirements."
+    },
+    {
+      "collegeName": "Invercargill Polytechnic Institute",
+      "location": "Invercargill, Southland, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Invercargill Polytechnic International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must possess a recognized academic certificate, demonstrate English proficiency (minimum IELTS 6.5/TOEFL 80), and meet additional academic criteria."
+    },
+    {
+      "collegeName": "Taranaki University",
+      "location": "New Plymouth, Taranaki, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Software Engineering"
+      ],
+      "scholarshipsOffered": [
+        "Taranaki International Scholarship",
+        "NZ Postgraduate Award"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Must have a recognized secondary/bachelor’s degree, provide proof of English proficiency (IELTS 6.5/TOEFL 80), and fulfill program-specific prerequisites."
+    },
+    {
+      "collegeName": "Wairarapa University",
+      "location": "Masterton, Wellington Region, New Zealand",
+      "coursesOffered": [
+        "B.Sc. in Computer Science",
+        "M.Sc. in Computer Science"
+      ],
+      "scholarshipsOffered": [
+        "Wairarapa International Scholarship",
+        "NZ International Scholarship"
+      ],
+      "eligibilityCriteriaForInternationalStudents": "Applicants must possess a recognized academic certificate and provide evidence of English proficiency (IELTS 6.5/TOEFL 80) along with meeting additional entry requirements."
+    }
+  ]

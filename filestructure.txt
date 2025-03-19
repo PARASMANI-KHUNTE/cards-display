@@ -1,0 +1,25 @@
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- collegeData.json
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.tsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- Card.tsx
+    |-- index.css
+    |-- main.tsx
+    |-- Pages
+        |-- CardsDisplay.tsx
+    |-- vite-env.d.ts
+|-- tsconfig.app.json
+|-- tsconfig.json
+|-- tsconfig.node.json
+|-- vite.config.ts
